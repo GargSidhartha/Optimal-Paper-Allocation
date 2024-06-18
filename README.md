@@ -20,15 +20,20 @@
 
 > 📄 **Paper Link:** [Paper Distribution Simulation Slides](https://docs.google.com/presentation/d/1q7nXEGrO687Rii2Zthmp4VpEUUrOY9S9EIlYOgRD5y0/edit?usp=sharing)
 
-  
-
+<div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <b><u>Lecture Hall: </u></b> <br>
+    <img src="ImagesClass/Basic.jpg" alt="Screenshot 1" width="400">
+</div>
 ## BFS Function 🚀
 
   
 
 This C++ program simulates the distribution of papers by students in a grid, represented as blocks using a 2D vector. The simulation employs a breadth-first search (BFS) algorithm, where students distribute papers in different directions (4 and 8 directional) until reaching the boundary.
 
-  
+<div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <b><u>Lecture Hall: </u></b> <br>
+    <img src="ImagesClass/choice.jpg" alt="Screenshot 1" width="400">
+</div>
 
 ### BFS Loop 🔍
 
@@ -66,9 +71,4 @@ This C++ program simulates the distribution of papers by students in a grid, rep
 
 - To calculate time with diagonal movement, modify the for loop in the BFS function by replacing `4` with `8`. This ensures the updated time is calculated using all eight directions.
 
-  
-
-## INT MAIN 📊
-
-This section implements the BFS function for critical points in the six blocks, representing specific starting positions for each block.
 
