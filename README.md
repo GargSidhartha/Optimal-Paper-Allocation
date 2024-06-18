@@ -1,29 +1,11 @@
-<div align="center">
+## Exam Paper Distribution Simulation for Fairness📝
 
-  <h1 style="font-family: 'Helvetica', sans-serif;"><span style="color:#00FFFF;">Exam Paper Distribution Simulation for Fairness📝</span></h1>
-
-</div>
-
-  
-
-<div align="center">
-
-  <h6 style="font-family: 'Helvetica', sans-serif;"> © Sarthak Gupta, Sidhartha Garg and Tanishk Singh 🎓</h6>
-
-</div>
-
-  
-
----
-
-  
-
-> 📄 **Paper Link:** [Paper Distribution Simulation Slides](https://docs.google.com/presentation/d/1q7nXEGrO687Rii2Zthmp4VpEUUrOY9S9EIlYOgRD5y0/edit?usp=sharing)
 
 <div style="display: inline-block; text-align: center; margin-right: 20px;">
     <b><u>Lecture Hall: </u></b> <br>
     <img src="ImagesClass/Basic.jpg" alt="Screenshot 1" width="400">
 </div>
+
 ## BFS Function 🚀
 
   
